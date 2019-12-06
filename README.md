@@ -105,7 +105,7 @@ For all released binaries file with hashes signed with my [PGP key](https://gith
 
 ArchLinux users can install latest release from AUR repository: [rclone-browser][7].
 
-Fedora package is now available from [Fedora packages](https://apps.fedoraproject.org/packages/rclone-browser).
+Fedora package is now available from [Fedora packages](https://apps.fedoraproject.org/packages/rclone-browser) - simply run `sudo dnf install rclone-browser`
 
 FreeBSD has its version available from [freshports](https://www.freshports.org/net/rclone-browser) website.
 
